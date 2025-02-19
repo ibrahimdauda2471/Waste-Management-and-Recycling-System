@@ -13,3 +13,5 @@ Q
 .gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
 \
 ,contracts/collection-route-optimization.clar,0/e/0e0fa0b14d52064d96a2fb2cd5031292067bd363
+[
++tests/collection-route-optimization.test.ts,2/9/29d4f71a86306fbdc54e0f1c8c7a3c5013c37bb9
