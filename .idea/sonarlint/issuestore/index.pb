@@ -5,3 +5,7 @@ M
 contracts/waste-tracking.clar,b/c/bc24ed5e0ff04a20754d31d5a20d614ae7868a8c
 L
 tests/waste-tracking.test.ts,7/5/75d50c083fadc9847b18f087569d3a0c780af241
+R
+"contracts/recycling-incentive.clar,0/e/0ede96c67fcfe3d90583c8db4be5b83e3c6596f2
+Q
+!tests/recycling-incentive.test.ts,8/7/87fcd3197dff7df660aaa8e19563d1b035e2fb7b
