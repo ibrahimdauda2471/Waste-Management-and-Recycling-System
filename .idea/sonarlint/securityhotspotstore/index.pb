@@ -17,3 +17,5 @@ Q
 +tests/collection-route-optimization.test.ts,2/9/29d4f71a86306fbdc54e0f1c8c7a3c5013c37bb9
 O
 contracts/circular-economy.clar,f/c/fcf585802dae49c52a16ce785a658e76fba944bf
+N
+tests/circular-economy.test.ts,f/c/fc56d4e24d8d57acdc1be7670419ee635022243e
