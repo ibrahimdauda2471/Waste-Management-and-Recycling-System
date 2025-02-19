@@ -9,3 +9,5 @@ R
 "contracts/recycling-incentive.clar,0/e/0ede96c67fcfe3d90583c8db4be5b83e3c6596f2
 Q
 !tests/recycling-incentive.test.ts,8/7/87fcd3197dff7df660aaa8e19563d1b035e2fb7b
+>
+.gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
